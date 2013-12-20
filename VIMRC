@@ -5,6 +5,8 @@ filetype indent on
 set encoding=utf8
 set background=dark
 
+setlocal textwidth=80
+
 " Enable pathogen
 call pathogen#infect()
 
