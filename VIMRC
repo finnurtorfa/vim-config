@@ -13,8 +13,7 @@ call pathogen#infect()
 " Some general mappings
 " Toggle NERDTree on/off
 nmap <silent> <F1> :NERDTreeToggle<CR> 
-nmap <silent> <F2> :MiniBufExplorer<CR> 
-nmap <silent> <F3> :TagbarToggle<CR> 
+nmap <silent> <F2> :TbToggle<CR> 
 
 " NERDTree configurations
 " Set default width for NERDTree panel
